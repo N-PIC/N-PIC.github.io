@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Noémie PICARD
 Elève ingénieur en [préciser sa spécialité]
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[noemie.picard0[at]gmail.com](mailto:noemie.picard0@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
