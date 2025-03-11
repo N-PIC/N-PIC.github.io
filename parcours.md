@@ -8,18 +8,15 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en énergie et numérique
+* Cours : programmation, mathématiques, physique-chimie
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac mathématiques et physique-chimie option mathématiques expertes, mention bien, Péronne
 
 ## Expériences
 
@@ -46,8 +43,8 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 anglais : B1
+* LV2 espagnol : niveau à préciser (résultat d’examen)
 
 Informatique
 * Logiciels maitrisés
@@ -58,8 +55,8 @@ Autres
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
+Sport
+* 
 * Description 
 
 Loisirs 1
