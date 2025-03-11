@@ -9,14 +9,13 @@ hero_image_ratio: is-1by1
 ---
 
 # Noémie PICARD
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en énergie et numérique
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir de Date
 
 [noemie.picard0[at]gmail.com](mailto:noemie.picard0@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
 
