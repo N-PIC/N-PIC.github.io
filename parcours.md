@@ -20,7 +20,7 @@ Bac mathématiques et physique-chimie option mathématiques expertes, mention bi
 
 ## Expériences
 
-`20XX` **Projet d’étude – Robot Otto**
+`2025` **Projet d’étude – Robot Otto**
 
 _Réalisé en équipe de 3 étudiants_
 * Impression des pièces en 3D (imprimantes 3D)
