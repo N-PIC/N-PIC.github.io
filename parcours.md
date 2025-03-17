@@ -20,12 +20,12 @@ Bac mathématiques et physique-chimie option mathématiques expertes, mention bi
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`20XX` **Projet d’étude – Robot Otto**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 3 étudiants_
+* Impression des pièces en 3D (imprimantes 3D)
+* Programmation des diverses fonctions du robot grâce à Arduino (carte Arduino, programmtions des capteurs ultrasons, servomoteurs, buzzer)
+* Tests sur différentes épreuves (course, parcours d'obstacle)
 
 
 `20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
@@ -44,7 +44,7 @@ _Intitulé du poste dans une équipe de XX membres_
 
 Langues
 * LV1 anglais : B1
-* LV2 espagnol : niveau à préciser (résultat d’examen)
+* LV2 espagnol : A1
 
 Informatique
 * Logiciels maitrisés
@@ -56,8 +56,8 @@ Autres
 ## Centres d’intérêt
 
 Sport
-* 
-* Description 
+* Course à pied
+* Volley-ball
 
 Loisirs 1
 * Description 
