@@ -3,7 +3,8 @@ layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-hero_image: assets/imgs/image.png
+hero_image: [image](https://github.com/user-attachments/assets/6a0506fa-8944-4fe5-9df2-3710633b05e9)
+
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
