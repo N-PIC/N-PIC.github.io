@@ -6,7 +6,7 @@ menubar: menu_bar
 hero_image: (https://github.com/user-attachments/assets/6a0506fa-8944-4fe5-9df2-3710633b05e9)
 
 hero_image_alt: Ma photo
-hero_image_ratio: [is-1by1](https://github.com/user-attachments/assets/6a0506fa-8944-4fe5-9df2-3710633b05e9)
+hero_image_ratio: (https://github.com/user-attachments/assets/6a0506fa-8944-4fe5-9df2-3710633b05e9)
 ---
 
 # Noémie PICARD
