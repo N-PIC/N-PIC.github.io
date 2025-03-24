@@ -13,7 +13,7 @@ hero_image_ratio: (https://github.com/user-attachments/assets/6a0506fa-8944-4fe5
 Elève ingénieur en énergie et numérique
 
 
-Disponible 1 mois à partir de Date
+Disponible 1 mois à partir de 16/06/2025
 
 [noemie.picard0@gmail.com](mailto:noemie.picard0@gmail.com)
 
