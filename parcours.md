@@ -47,8 +47,8 @@ Langues
 * LV2 espagnol : A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* OnShape
+* KiCad
 
 Autres
 * Autres diplômes ou permis spéciaux
